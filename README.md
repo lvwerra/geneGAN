@@ -1,7 +1,7 @@
 # Adversarial Training for Precision Oncology
 
 ## Overview
-This repo showcases to GAN approaches to precision oncology. In each folder the scripts and notebooks to train a model and to apply a trained model are provided.
+This repo showcases two generative adversarial net (GAN) approaches to precision oncology. In each folder the scripts and notebooks to train a model and to apply a trained model are provided.
 
 ## Installation
 To install the necessary libraries run:
