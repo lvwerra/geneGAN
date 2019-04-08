@@ -9,4 +9,4 @@ The training data consists of two files \*\_treat.npy and \*\_cond.npy with \[di
 With the treatgan.py script a GAN can be trained and the model is saved.
 
 ## Applying the model
-To apply the model, the treatgan_model.py can be used. For more detail how to use this module consult the treatgan_apply.ipynb notebook.
+To apply the model use the treatgan_model.py module. For more detail on how to use this module consult the treatgan_apply.ipynb notebook.
